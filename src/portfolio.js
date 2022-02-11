@@ -9,13 +9,13 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello 👋.",
+  title: "Hello 👋,",
   title2: "Ikechukwu",
   logo_name: "James()",
   nickname: "Kaykaymaestro",
   full_name: "Ikechukwu Madubuike",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+    "A Full Stack Developer, and an Open Source Enthusiast 🔥.",
   resumeLink:
     "https://drive.google.com/open?id=1zkqM2U6EqeZQ6RQ70qCvQR3q-XWrNGJO&authuser=ikechukwujames902%40gmail.com&usp=drive_fs",
   mail: "ikechukwujames902@gmail.com",
@@ -169,103 +169,124 @@ const experience = {
         {
           title: "Full Stack Developer",
           company: "Efull Technology",
-          company_url: "https://valora-infotech.business.site/",
-          logo_path: "valora.jpg",
-          duration: "Oct 2020 - Mar 2021",
+          company_url: "https://www.efulltech.com.ng/",
+          logo_path: "efull.jpg",
+          duration: "Dec 2021 - Present",
           location: "Office",
           description:
-          `Train, manage and provide guidance to junior software development staff.
+         `
           Work closely with the Project Manager and Team Leads on change request functions.
-          Develops new and maintains existing applications.
-          Increased productivity and problem-solving technics by 20%.
-          We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
+          Develop new and maintain existing applications.
+          We primarily use MERN Stack. 60% of my work is basically on the frontend while 40% is on backend related tasks.
           `,
-            // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
         },
         {
-          title: "Full Stack Developer (Freelancer)",
-          company: "NightOwls",
-          company_url: "http://nightowls.company/",
-          logo_path: "nightowls.jpg",
-          duration: "Sep 2020 - Oct 2020",
-          location: "Work From Home",
+          title: "Frontend Developer",
+          company: "SwirgePay",
+          company_url: "https://www.swirge.com/",
+          logo_path: "swirge.jpg",
+          duration: "April 2021 - Nov2021",
+          location: "Remote",
           description:
-          `Work closely with the Client and Team on change request functions.
-          We Primarily used LAMP Stack. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
+          `
+          Implemented visual and interactive elements that users engage with in a web application.
+          Suggested improvements to the interface to enhance the user experience on the frontend which boosted organic web traffic by 10%.
+          Collaborated well with other team members to determine the best design specifications and details.
           `,
-            // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
-        }
+        },
+        {
+          title: "Full Stack Developer Intern",
+          company: "Mira Technologies",
+          company_url: "https://miratechnologiesng.com/",
+          logo_path: "mira.jpg",
+          duration: "Aug2020 - Dec2020",
+          location: "Onsite",
+          description:
+          `Worked in a team environment wih Agile methodology, transformed complex concepts into simple, elegant services and products.
+          Implemented visual and interactive elements that users engage with in a web application.
+          Analyzed UI/UX design for responsive layouts and improved usability.
+          Assisted in designing and implementing database structures.
+          `,
+          color: "#0071C5",
+        },
+        {
+          title: "Network Engineering Intern",
+          company: "Hiit PlC",
+          company_url: "https://hiitplc.com/",
+          logo_path: "HiiT Plc.png",
+          duration: "Sept 2019 - Dec 2019",
+          location: "Onsite",
+          description:
+          `Trained on Cisco - CCNA.
+          Hands on experience working with Cisco routers and switches, Mikrotik routers etc.
+          Investigating faults on a network.
+          Configuring firewalls, routing and switching to maximize network efficiency and security.
+          `,
+          color: "#196acf",
+        },
+
+        {
+          title: "Network Engineering Intern",
+          company: "Tizeti Network Limited",
+          company_url: "https://www.tizeti.com/",
+          logo_path: "Tizeti Ltd.jpg",
+          duration: "May 2019 - AuG 2019",
+          location: "Onsite",
+          description:
+          `Plan, implement and oversee router configuration that supports in-house voice, data, video and wireless network services.
+          `,
+          color: "#ee3c26",
+        },
+        
       ],
     },
     {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
-          company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
+          title: "IEEE STUDENT MEMBER (FUTO)",
+          company: "IEEE",
+          company_url: "https://www.ieee.org/",
+          logo_path: "ieee_logo_official.jpg",
+          duration: "Feb 2016 - Mar 2021",
+          location: "FUTO Campus",
           description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+            "Major responsibilities were to help students plan and execute electrical & elctronic projects, review issues and ensure smooth progress.",
           color: "#4285F4",
         },
         {
-          title: "Campus Hustler",
-          company: "Skillenza",
-          company_url: "https://skillenza.com/",
-          logo_path: "skillenza.png",
-          duration: "Feb 2021 - Present",
-          location: "Work from Home",
-          description: "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
+          title: "Campus Ambassador",
+          company: "FDLN",
+          company_url: "https://feladurotoye.net/",
+          logo_path: "FDLN.png",
+          duration: "May 2018 - June 2019",
+          location: "FUTO Campus",
+          description: "Help inspire my peers on how to live a lifestyle of leadership and excellence for accelerated development in their personal and professional lives.",
           color: "#196acf",
         },
         {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
+          title: "MicroSoft Student Member",
+          company: "MicroSoft Nigeria",
+          company_url: "https://www.microsoft.com/",
+          logo_path: "Msft.png",
+          duration: "Nov 2019 - July 2021",
+          location: "FUTO Campus",
           description:
-          "Contribute to Open Source Community and Open Source Project.",
+          "Spread awareness of Microsoft new Technologies (Azure, office 365) etc. And opportunities for the student community.",
           color: "#040f26",
         },
         {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "GDG Student Volunteer",
+          title: "GDG Student Volunteer Owerri",
           company: "Google Developer Groups",
           company_url: "https://gdg.community.dev/",
           logo_path: "gdg.png",
           duration: "Feb 2021 - Present",
-          location: "Work From Home",
+          location: "Remote",
           description:
-            "Google Developer Group Surat Student Volunteer and Member.",
+            "Google Developer Group Owerri, Student Volunteer and Member.",
           color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
         },
       ],
     },
@@ -301,48 +322,32 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "AutomateInstaPyBot",
-      url: "https://github.com/harikanani/AutomateInstaPyBot",
-      description: "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
+      name: "Efu-School",
+      url: "https://school.efulltech.com.ng",
+      description: "Efu-School is a digital platform designed to boost school administrator's productivity and transform classrooms into tech-centric learning environments",
       languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      id: "1",
-      name: "react-twitter-clone",
-      url: "https://github.com/harikanani/react-twitter-clone",
-      description:
-        "A React Twitter Clone UI with basic functionality such as make a Tweet.Embedded Profile Tweets and Share on Twitter.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
         {
           name: "React",
           iconifyClass: "logos-react",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
         },
       ],
     },
     {
-      id: "2",
-      name: "node-blockchain",
-      url: "https://github.com/harikanani/node-blockchain",
+      id: "1",
+      name: "Swirge Website",
+      url: "https://www.swirge.com",
       description:
-        "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
+        "A decentralized social media, marketplace, and payment platform, built on the blockchain.",
       languages: [
+        
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
         {
           name: "NodeJS",
           iconifyClass: "logos-nodejs",
@@ -354,20 +359,26 @@ const projects = {
       ],
     },
     {
-      id: "3",
-      name: "top-crypto-gainers",
-      url: "https://github.com/harikanani/top-crypto-gainers",
+      id: "2",
+      name: "My-readsapp",
+      url: "https://my-readsapp.netlify.app",
       description:
-        "A top high price changed crypto coins wring 24 hoursA sound-classifier webapp made with ReactJS + TensorflowJS.",
+        "A virtual bookcase to store your books and track what you're reading.",
       languages: [
         {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          name: "React",
+          iconifyClass: "logos-react",
         },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
+      ],
+    },
+    {
+      id: "3",
+      name: "Xamapp",
+      url: "https://xamap-fe.herokuapp.com",
+      description:
+        "A facial recognition system.",
+      languages: [
+        
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
@@ -375,19 +386,6 @@ const projects = {
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
-        },
-      ],
-    },
-    {
-      id: "4",
-      name: "personal-portfolio",
-      url: "https://github.com/harikanani/personal-portfolio",
-      description:
-        "A simple command line interface based quiz app to know more about me :).",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
         },
         {
           name: "NodeJS",
@@ -396,221 +394,15 @@ const projects = {
       ],
     },
     {
-      id: "3",
-      name: "node_express_crud_api_starter",
-      url: "https://github.com/harikanani/node_express_crud_api_starter",
+      id: "4",
+      name: "node_express_crud_libray",
+      url: "https://github.com/Iykelistic/library-app.git",
       description:
-        "Simple NodeJS Express CRUD Operations API starter.",
+        "Simple NodeJS Express CRUD Operations Library management system.",
       languages: [
         {
           name: "NodeJS",
           iconifyClass: "logos-nodejs",
-        },
-      ],
-    },
-    {
-      id: "4",
-      name: "node-web-scrapper",
-      url: "https://github.com/harikanani/node-web-scrapper",
-      description:
-        "A Simple web scrapper that scrap the information of amazon products such as price.It also scrap Wikipedia Data such as birthdate.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "NodeJs",
-          iconifyClass: "logos-nodejs",
-        },
-      ],
-    },
-    {
-      id: "5",
-      name: "harikanani.github.io",
-      url: "https://github.com/harikanani/harikanani.github.io",
-      description:
-        "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "SCSS",
-          iconifyClass: "vscode-icons:file-type-scss2",
-        },
-      ],
-    },
-    {
-      id: "6",
-      name: "Automate Attendace",
-      url: "https://github.com/harikanani/Node_Python",
-      description:
-        "Automation of Online Attendance using node js and python",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      id: "7",
-      name: "Automate Discord Bot",
-      url: "https://github.com/harikanani/AutomateDiscordBot",
-      description:
-        "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Python Selenium",
-          iconifyClass: "logos-selenium",
-        },
-        {
-          name: "Chromium Browser",
-          iconifyClass: "openmoji-chromium",
-        },
-      ],
-    },
-    {
-      id: "8",
-      name: "Flask Blog",
-      url: "https://github.com/harikanani/flask_blog",
-      description:
-        "A Simple Blog Web Application made using Flask Framework",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-      ],
-    },
-    {
-      id: "9",
-      name: "Netflix top series",
-      url: "https://github.com/harikanani/netflix-top-series",
-      description:
-        "List of Top Netflix Series which is deployed to vercel.",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-      ],
-    },
-    {
-      id: "10",
-      name: "COVID-19 Tracker",
-      url: "https://github.com/harikanani/Covid19TrackerReact",
-      description: "Simple Covid-19 Tracker made using React and deployed to Vercel.",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-      ],
-    },
-    {
-      id: "11",
-      name: "Food Order Static Website",
-      url: "https://github.com/harikanani/food-order-website",
-      description: "A simple static website related to food restaurants service. this is reasponsive as well.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "PHP",
-          iconifyClass: "logos-php",
-        },
-      ],
-    },
-    {
-      id: "12",
-      name: "NFT Launchpad",
-      url: "https://deliquescent-cents.000webhostapp.com/",
-      description: "NFT Launchpad crypto site portfolio",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
         },
       ],
     },
