@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "A Full Stack Developer, and an Open Source Enthusiast 🔥.",
   resumeLink:
-    "https://drive.google.com/open?id=1zkqM2U6EqeZQ6RQ70qCvQR3q-XWrNGJO&authuser=ikechukwujames902%40gmail.com&usp=drive_fs",
+    "https://drive.google.com/open?id=1jL8oxcFxbXIKqe7q0rYgS5awT8D8zdwL&authuser=ikechukwujames902%40gmail.com&usp=drive_fs",
   mail: "ikechukwujames902@gmail.com",
 };
 
@@ -177,7 +177,7 @@ const experience = {
          `
           Work closely with the Project Manager and Team Leads on change request functions.
           Develop new and maintain existing applications.
-          We primarily use MERN Stack. 60% of my work is basically on the frontend while 40% is on backend related tasks.
+          The backend use of Nodejs, Expressjs, MongoDB & Mongoose, to provide RESTful APIs.
           `,
           color: "#0071C5",
         },
